@@ -5,18 +5,6 @@
 Макет:
 https://www.figma.com/design/u1fHPkVcFOPQjcQq3ZSnmr/Web.Jobly?node-id=0-1&node-type=canvas&t=51zzRpwNF1biqww6-0
 
-**Модуль 3.**
-
-Задание 1. - **выполнено**
-
-Задание 2. - **выполнено**
-
-Задание 3. - **выполнено**
-
-Задание 4. - **выполнено**
-
-Задание 5. - **выполнено**
-
 ## My React App
 
 Приложение на React + TypeScript, собранное с помощью Vite.

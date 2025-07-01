@@ -23,7 +23,7 @@ https://www.figma.com/design/u1fHPkVcFOPQjcQq3ZSnmr/Web.Jobly?node-id=0-1&node-t
 1. Склонируйте репозиторий (или скопируйте папку проекта) и перейдите в него:
 
    ```bash
-   git clone https://github.com/gavrilov-si25/my-react-app.git
+   git clone https://github.com/kikvinn/my-react-app.git
    cd my-react-app
    ```
 
